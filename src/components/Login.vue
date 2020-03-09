@@ -106,7 +106,7 @@ export default {
       
     
     goToDashboard() {
-      if(this.user.email=="rishabh.srivastava@diatoz.com"){
+      if(this.user.email=="rishabh@gmail.com"){
       this.$router.push({
         name: "home"
       });
@@ -115,7 +115,7 @@ export default {
     }
     },
     goToHome(){
-      if(this.cust.email=="rishabh@diatoz.com"){
+      if(this.cust.email=="rishabh@gmail.com"){
       this.$router.push({
         name: "home"
       });
