@@ -31,7 +31,7 @@ export default {
   },
    methods:{
      goToVerification(){
-        if(this.user.email=="rishabh.srivastava@diatoz.com"){
+        if(this.user.email=="rishabh@gmail.com"){
       this.$router.push({
         name: "verify"
       });
