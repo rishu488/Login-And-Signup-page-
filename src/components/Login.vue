@@ -124,7 +124,7 @@ export default {
     }
     },
     goToPassword(){
-      console.log('888')
+      // console.log('888')
       this.$router.push({
         name: "pass"
       });
