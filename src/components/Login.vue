@@ -1,7 +1,7 @@
 +<template>
   <article>
-    <!-- <Dashboard/> -->
-    <!-- <n-navbar @data="data($event)"/> -->
+    
+
     <div class="container" style="margin:0 auto" :class="{'sign-up-active' : signUp}">
       <div class="overlay-container">
         <div class="overlay">
